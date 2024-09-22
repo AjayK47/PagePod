@@ -1,0 +1,10 @@
+crewai
+deepgram-sdk
+openai
+groq
+crewai[tools]
+langchain_community
+firecrawl-py
+langchain-groq
+langchain-openai
+langchain-core==0.2.40
