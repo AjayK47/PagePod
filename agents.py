@@ -9,7 +9,7 @@ load_dotenv()
 os.environ['GROQ_API_KEY']=os.getenv("GROQ_API_KEY")
 os.environ['OPENAI_API_KEY'] = os.getenv('OPENAI_API_KEY')
 
-llm=ChatOpenAI(model_name='gpt4o-mini',temprature=0.7,api_key=os.environ['OPENAI_API_KEY'])
+llm=ChatOpenAI(model_name='openai/gpt-4o-mini',temprature=0.7,api_key=os.environ['OPENAI_API_KEY'])
 
 # llm = ChatGroq(model="groq/llama3-8b-8192", groq_api_key=os.getenv("GROQ_API_KEY"),temperature=0.7 ) # uncomment for Groq Use
 
