@@ -62,7 +62,8 @@ You will be prompted to enter a URL. The system will then:
 
 ## Customization
 
-You can customize the behavior of the agents by modifying their roles, goals, and backstories in the `agents.py` file. You can also adjust the task descriptions in `tasks.py` to fine-tune the process.
+- You can customize the behavior of the agents by modifying their roles, goals, and backstories in the `agents.py` file. You can also adjust the task descriptions in `tasks.py` to fine-tune the process.
+- Best Part you change your LLM model as well in `agents.py` file
 
 ## Contributing
 
