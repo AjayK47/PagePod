@@ -21,8 +21,8 @@ This project uses a multi-agent framework to automatically generate podcasts fro
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/multi-agent-podcast-generator.git
-   cd multi-agent-podcast-generator
+   git clone https://github.com/AjayK47/PagePod.git
+   cd PagePod
    ```
 
 2. Install the required packages:
