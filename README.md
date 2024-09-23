@@ -11,6 +11,14 @@ This project uses a multi-agent framework to automatically generate podcasts fro
 - Text-to-speech conversion
 - Multi-agent system using CrewAI
 
+## Feautres to contribute
+
+- More Sophisticated Web Content Scrapping using Vision and OCR content Extraction
+- UI/Interface
+- Support to more LLM integrations and TTS models
+- Multi-Turn Podcast generation with multiple people
+- Addition of Fallback scrapping tools like Firecrawl , Craw4AI and more
+
 ## Prerequisites
 
 - Python 3.7+
