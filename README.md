@@ -1,4 +1,4 @@
-# PagePod: Multi-Agent Web content Audio Synthesizer
+# PagePod: Multi-Agent Web content Podcast generator
 
 This project uses a multi-agent framework to automatically generate podcasts from website content. It leverages the power of AI to scrape web content, refine it, create a script, and convert it to speech.
 
